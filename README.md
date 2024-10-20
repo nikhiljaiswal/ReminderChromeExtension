@@ -56,13 +56,15 @@ This is my first Chrome extension, and I'm excited to share it!
 
 Despite having no prior experience with Chrome extensions, I built this tool with the invaluable assistance of **[ChatGPT](https://chatgpt.com/)** and the AI-powered IDE **[Cursor](https://www.cursor.com/)**. These tools served as coding companions, guiding me through the development process and helping me learn new concepts quickly.
 
-Check out the LinkedIn post about the journey [here](https://lnkd.in/gNvPVJEb).
+Check out the **[LinkedIn post](https://lnkd.in/gNvPVJEb)** about the journey.
 
 > AI-assisted development is transforming how we build software, making the process more intuitive and accessible. If you haven't explored AI tools in your development process yet, now is the time! 🚀
 
 ## 🎬 Demo
 
-Watch the full demo of the extension in action [here](https://lnkd.in/gNvPVJEb).
+Watch the full demo of the extension in action below:
+
+[![Watch the demo](https://img.youtube.com/vi/9ol00kKuihk/0.jpg)](https://www.youtube.com/watch?v=9ol00kKuihk&ab_channel=NikhilJaiswal)
 
 ---
 
